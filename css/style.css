@@ -12,6 +12,7 @@ body{
     align-items: center;
     flex-direction: column;
     background: lightblue;
+    overflow: hidden;
 }
 
 .lampada-completa{
